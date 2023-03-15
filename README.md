@@ -1,2 +1,2 @@
 # RotaryEncoder_Snake
-Snake game using a single Rotary Encoder
+A game of Snake using a single Rotary Encoder
